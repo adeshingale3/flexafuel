@@ -115,7 +115,7 @@ export function WorkoutAccordion() {
   }, [expandedId]);
 
   return (
-    <section className="w-full bg-background py-12 sm:py-16 md:py-24 lg:py-32">
+    <section className="w-full bg-background py-8 sm:py-12 md:py-20 lg:py-28">
       <div className="w-full px-4 sm:px-6 max-w-4xl mx-auto">
         <div className="text-center mb-10 sm:mb-12 md:mb-16">
           <h2 className="text-2xl sm:text-3xl md:text-5xl font-bold text-foreground mb-3 sm:mb-4 text-balance italic">
