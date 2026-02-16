@@ -15,7 +15,7 @@ const Strip = () => {
           }
         }
         .scroll-text {
-          animation: scroll-horizontal 8s linear infinite;
+          animation: scroll-horizontal 10s linear infinite;
           white-space: nowrap;
         }
       `}</style>
